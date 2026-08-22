@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/tuzzy.gif" width="50%" />
+  <img src="./assets/username.gif" width="50%" />
 </p>
