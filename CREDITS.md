@@ -1,0 +1,2 @@
+- GIF made with [TextStudio](https://www.textstudio.com/text-animation-generator)
+- GIF cropped with [EZGIF](https://ezgif.com/crop)
